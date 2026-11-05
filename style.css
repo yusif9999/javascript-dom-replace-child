@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.success{
+    background-color: lightseagreen;
+    color: #fff;
+}
+
+.danger{
+    background-color: darkred;
+    color: #fff;
+}
+
+.dark{
+    background-color: #333;
+    color: #fff;
+}
+
+.gray{
+    background-color: gray;
+    color: #fff;
+}
